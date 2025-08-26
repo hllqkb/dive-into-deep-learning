@@ -54,3 +54,6 @@ d2l/fine-tuning/data/hotdog.zip
 d2l/augument/main.ipynb
 d2l/augument/data/cifar-10-python.tar.gz
 d2l/data/kaggle_cifar10_tiny.zip
+._.DS_Store
+.DS_Store
+d2l/data/banana-detection.zip
